@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NCCR Evolving Language</title>
+    <link>http://example.org/</link>
+    <description>Recent content on NCCR Evolving Language</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 23 Mar 2019 12:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Contact</title>
+      <link>http://example.org/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/contact/</guid>
+      <description>I you should have any questions in relation to the NCCR Evolving Language, please concact the members of the management team.
+ Administration and finances: manuel.widmer AT uzh.ch Research and communication: eliza.isabaeva AT uzh.ch  </description>
+    </item>
+    
+  </channel>
+</rss>
