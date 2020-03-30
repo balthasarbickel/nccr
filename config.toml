@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://peaceful-cori-88bdcb.netlify.com"
 languageCode = "en-us"
 title = "NCCR Evolving Language"
 theme = "ananke"
