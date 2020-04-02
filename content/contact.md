@@ -8,7 +8,7 @@ menu: main
 
 ---
 
-I you should have any questions in relation to the NCCR Evolving Language, please contact the members of the management team.
+If you should have any questions in relation to the NCCR Evolving Language, please contact the members of the management team.
 * Administration and finances: [manuel.widmer AT uzh.ch](mailto:manuel.widmer@uzh.ch)
 * Research and communication: [eliza.isabaeva AT uzh.ch](mailto:eliza.isabaeva@uzh.ch)
 
