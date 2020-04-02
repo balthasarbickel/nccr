@@ -2,7 +2,7 @@
 title: "NCCR Evolving Language"
 date: 2019-03-23T12:00:00-05:00
 featured_image: ''
-description: "Exploring the past, present, and future of langugage"
+description: "Exploring the past, present, and future of language"
 ---
 The Swiss National Centre of Comptence in Research (NCCR) Evolving Language is a nationwide interdisciplinary research network bringing together research groups from the humanities, biology, neurosciences, psychology and computer sciences. 
 

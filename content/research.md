@@ -7,7 +7,7 @@ type: page
 menu: main
 
 ---
-
+## Summary
 
 Language is what sets humans apart from all other species. Despite much effort, however, its evolutionary origins have remained obscure. At the same time, the role of language is currently undergoing radical changes, with cultural, psychological and evolutionary ramifications barely understood. New digital channels, ubiquitous online knowledge bases, and continued advancement of artificial intelligence are reshaping our communicative environment and modifying the way we learn and use language. An indepth exploration of the origins and future of language is urgently needed, propelling language science to the forefront of societal and economic challenges.
 
@@ -18,3 +18,15 @@ with distinct evolutionary trajectories and adopt a large-scale comparative fram
 2. The Biological Substrates of Language: What are the biological mechanisms that make language possible? Can and should we intervene on language functions with neurotechnology?
 
 3. The Social Cognition of Language: What are the social cognitive mechanisms that underlie linguistic communication, both phylogenetically and ontogenetically? How did these mechanisms evolve and how will they change with artificial communicators?
+
+---
+
+## Organization
+
+![](/images/mgmt.jpg)
+
+![](/images/p1.jpg)
+
+![](/images/p2.jpg)
+
+![](/images/p3.jpg)
