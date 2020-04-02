@@ -2,7 +2,7 @@
 title: Research
 featured_image: ""
 omit_header_text: true
-description: We'd love to hear from you
+description: ""
 type: page
 menu: main
 
@@ -13,11 +13,12 @@ Language is what sets humans apart from all other species. Despite much effort, 
 
 Our project explores the evolutionary origins and future development of linguistic communication with an unprecedented transdisciplinary research programme. We conceptualise language as a system of components
 with distinct evolutionary trajectories and adopt a large-scale comparative framework to study these trajectories in nature and function along three thematic axes:
-1. The Dynamic Structures of Language: How and why have the structures of language and their temporal dynamics evolved? How will these structures interact with new technologies and means of communication?
 
-2. The Biological Substrates of Language: What are the biological mechanisms that make language possible? Can and should we intervene on language functions with neurotechnology?
+1. [The Dynamic Structures of Language]({{< ref "t1.md" >}}): How and why have the structures of language and their temporal dynamics evolved? How will these structures interact with new technologies and means of communication?
 
-3. The Social Cognition of Language: What are the social cognitive mechanisms that underlie linguistic communication, both phylogenetically and ontogenetically? How did these mechanisms evolve and how will they change with artificial communicators?
+2. [The Biological Substrates of Language]({{< ref "t2.md" >}}): What are the biological mechanisms that make language possible? Can and should we intervene on language functions with neurotechnology?
+
+3. [The Social Cognition of Language]({{< ref "t3.md" >}}): What are the social cognitive mechanisms that underlie linguistic communication, both phylogenetically and ontogenetically? How did these mechanisms evolve and how will they change with artificial communicators?
 
 ---
 
@@ -25,8 +26,8 @@ with distinct evolutionary trajectories and adopt a large-scale comparative fram
 
 ![](/images/mgmt.jpg)
 
-![](/images/p1.jpg)
+![](/images/t1.jpg)
 
-![](/images/p2.jpg)
+![](/images/t2.jpg)
 
-![](/images/p3.jpg)
+![](/images/t3.jpg)
