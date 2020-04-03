@@ -5,5 +5,4 @@ featured_image: ""
 title: "Interview with Balthasar Bickel"
 ---
 
-The UZH Magazin conducted an interview with Balthasar Bickel on the NCCR Evolving Language. 
-The full interview can be found [here](https://www.magazin.uzh.ch/en/current/Interview.html).
+*UZH Magazin* conducted an interview with Balthasar Bickel on the NCCR Evolving Language. See the [German original](https://www.magazin.uzh.ch/de/current/Interview.html) or an [English translation](https://www.magazin.uzh.ch/en/current/Interview.html).

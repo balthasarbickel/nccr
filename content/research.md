@@ -9,7 +9,7 @@ menu: main
 ---
 ## Summary
 
-Language is what sets humans apart from all other species. Despite much effort, however, its evolutionary origins have remained obscure. At the same time, the role of language is currently undergoing radical changes, with cultural, psychological and evolutionary ramifications barely understood. New digital channels, ubiquitous online knowledge bases, and continued advancement of artificial intelligence are reshaping our communicative environment and modifying the way we learn and use language. An indepth exploration of the origins and future of language is urgently needed, propelling language science to the forefront of societal and economic challenges.
+Language is what sets humans apart from all other species. Despite much effort, however, its evolutionary origins have remained obscure. At the same time, the role of language is currently undergoing radical changes, with cultural, psychological and evolutionary ramifications barely understood. New digital channels, ubiquitous online knowledge bases, and continued advancement of artificial intelligence are reshaping our communicative environment and modifying the way we learn and use language. An in-depth exploration of the origins and future of language is urgently needed, propelling language science to the forefront of societal and economic challenges.
 
 The NCCR Evolving Language explores the evolutionary origins and future development of linguistic communication with an unprecedented transdisciplinary research programme. We conceptualise language as a system of components
 with distinct evolutionary trajectories and adopt a large-scale comparative framework to study these trajectories in nature and function along three thematic axes:
